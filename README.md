@@ -29,4 +29,3 @@ sudo touch /etc/init.d/mongod
 
 sudo apt-get install mongodb-org-server
 
-![alt text](https://vignette2.wikia.nocookie.net/rickandmorty/images/7/7b/Picklerick.jpg/revision/latest?cb=20170725205548)
